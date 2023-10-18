@@ -3,7 +3,7 @@
 
 Autonomous Self-Driving Car using Machine Learning
 
-#Introduction
+# Introduction
 This project focuses on the implementation of an autonomous self-driving car using advanced machine learning techniques, particularly Convolutional Neural Networks (CNNs). The system mimics the human brain's visual cortex to make driving decisions based on the input from onboard cameras.
 
 Features
@@ -11,7 +11,7 @@ Real-time data processing from vehicle-mounted cameras
 Advanced image recognition for immediate response to driving conditions
 Data exploration and visualization using Python libraries
 
-#Technologies Used
+# Technologies Used
 
 Python
 Pandas
@@ -19,7 +19,7 @@ Matplotlib
 Scikit-learn
 Convolutional Neural Networks (CNNs)
 
-#Dataset
+# Dataset
 The project uses a dataset comprising images from the vehicle's cameras and corresponding steering angles. This data undergoes extensive preprocessing and augmentation to train the machine learning model effectively.
 
 #System Architecture
